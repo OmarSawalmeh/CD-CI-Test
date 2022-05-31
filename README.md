@@ -1,5 +1,6 @@
 # **server-deployment-practice**
-🔗[Heroku App](https://omarsawalme-server-deploy-prod.herokuapp.com/)
+🔗[Heroku App (main branch)](https://omarsawalme-server-deploy-prod.herokuapp.com/)
+🔗[Heroku App (div branch)](https://omarsawalmeh-server-deploy-dev.herokuapp.com/)
 🔗[GitHub Actions](https://github.com/OmarSawalmeh/server-deployment-practice/actions)
 🔗[Pull Request](https://github.com/OmarSawalmeh/server-deployment-practice/pulls)
 
