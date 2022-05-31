@@ -7,7 +7,7 @@ const notFountHandller = require('../handllersError/404');
 const error500 = require('../handllersError/500');
 
 app.get("/", (req, res)=>{
-    res.send("hello ");
+    res.send("YNWA ");
 });
 
 app.get("/data", (req, res)=>{
